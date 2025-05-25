@@ -1,7 +1,3 @@
-🔥 **That’s brilliant.** "U b U: United by Unemployment" carries **bold clarity and poetic punch.** Here's how we can formalize it as a **brand identity and manifesto header**:
-
----
-
 # 🐝 **U b U – United by Unemployment**
 
 ### *“You bee You.”*

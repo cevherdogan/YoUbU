@@ -1,7 +1,3 @@
-Absolutely. Here is the **Manifesto for United by Unemployment**, capturing the spirit, philosophy, and call to action behind the initiative:
-
----
-
 # 🕊️ **United by Unemployment: A Manifesto**
 
 ## **We Are Not Broken. We Are Disconnected.**
