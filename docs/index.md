@@ -34,8 +34,9 @@ Check out:
 
 ## 🌱 Join the Movement
 
-- 📑 [Contribute](../CONTRIBUTING.md)
-- 📣 [Code of Conduct](../CODE_OF_CONDUCT.md)
+- 📣 [Contribute](./contributing.md)
+- 📘 [Code of Conduct](./code_of_conduct.md)
+- 💬 [Community Announcements](./community.md)
 - 🧪 [Submit Issues](../.github/ISSUE_TEMPLATE/ISSUE_TEMPLATE.md)
 
 > Your story matters. Your skills matter. **You matter.**
