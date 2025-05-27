@@ -1,3 +1,6 @@
+commit_message.txt
+tag_message.txt
+tag_version.txt
 **/.env*
 **/node_modules
 create_ubu_repo.py

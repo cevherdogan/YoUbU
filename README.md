@@ -15,6 +15,15 @@ This repository serves as the central hub for all materials related to the **U b
 
 ---
 
+---
+
+## 🌐 GitHub Pages
+
+Documentation and live site:  
+🔗 [https://cevherdogan.github.io/YoUbU/](https://cevherdogan.github.io/YoUbU/)
+
+---
+
 ## 🧰 Tooling & Scripts
 
 - 🛠️ [create_ubu_repo.py](./create_ubu_repo.py) – Context-aware repo scaffolding  
@@ -37,7 +46,7 @@ This repository serves as the central hub for all materials related to the **U b
 ## 🚀 Getting Started
 
 ```bash
-python create_ubu_repo.py
+WIP: TBD
 ````
 
 This will generate a new repository scaffold based on the latest profile and context logic.
